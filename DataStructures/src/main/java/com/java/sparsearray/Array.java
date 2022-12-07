@@ -10,4 +10,7 @@ public class Array {
         System.out.println("version=1");
     }
 
+    public void test() {
+
+    }
 }
